@@ -22,3 +22,8 @@ button {
 img {
   width: 50%;
 }
+
+.matchaimg {
+  max-width: 200px;
+  border: 2px solid red;
+}
