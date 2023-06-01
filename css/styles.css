@@ -1,5 +1,24 @@
-
+body {
+  background: #fffbf7;
+}
 
 h1 {
   color: #025157;
+}
+
+.first {
+  color: #46484c;
+}
+
+.second {
+  color: #784545;
+}
+
+button {
+  color: #fff;
+  background: #025157;
+}
+
+img {
+  width: 50%;
 }
